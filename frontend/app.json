@@ -6,7 +6,7 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "sdkVersion": "50.0.0",
+    "sdkVersion": "49.0.0",
     "ios": {
       "supportsTablet": true
     },

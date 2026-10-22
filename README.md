@@ -21,7 +21,7 @@ A simple mobile app to track money lent to friends, built with Node.js/TypeScrip
 - Multer for file uploads
 
 ### Frontend
-- React Native with Expo
+- React Native with Expo SDK 49
 - Axios for API calls
 - Expo Image Picker for photo uploads
 
@@ -30,8 +30,7 @@ A simple mobile app to track money lent to friends, built with Node.js/TypeScrip
 - Node.js (v18 or higher)
 - PostgreSQL (v12 or higher)
 - npm or yarn
-- Expo CLI (for running the mobile app)
-- Android/iOS emulator or physical device (for testing the app)
+- Web browser (for web version) or Expo Go app (for mobile)
 
 ## Installation
 
@@ -92,10 +91,10 @@ npm install
 npm start
 ```
 
-This will start the Expo development server. You can then:
-- Press `a` to run on Android emulator
-- Press `i` to run on iOS simulator (macOS only)
-- Scan the QR code with Expo Go app on your phone
+This will start the Expo development server and open in your web browser automatically.
+- The app will open at `http://localhost:19006`
+- For mobile testing, press `a` for Android emulator or `i` for iOS simulator (macOS only)
+- You can also scan the QR code with Expo Go app on your phone
 
 ## API Endpoints
 
