@@ -26,15 +26,12 @@
     "@types/bcrypt": "^6.0.0",
     "@types/cors": "^2.8.19",
     "@types/express": "^5.0.6",
-    "@types/jest": "^30.0.0",
     "@types/jsonwebtoken": "^9.0.10",
     "@types/multer": "^2.3.0",
     "@types/node": "^26.6.5",
     "@types/pg": "^8.23.1",
-    "jest": "^30.5.2",
     "nodemon": "^3.1.14",
-    "ts-jest": "^29.4.15",
     "ts-node": "^10.9.2",
-    "typescript": "^7.0.2"
+    "typescript": "^5.6.3"
   }
 }
